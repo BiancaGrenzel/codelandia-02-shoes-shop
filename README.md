@@ -1,4 +1,4 @@
-<h1 align="center">Template with Vite, React, Ant Design, Router and JIT</h1>
+<h1 align="center">Codelandia - Shoes Shop</h1>
 
 <br/>
 
