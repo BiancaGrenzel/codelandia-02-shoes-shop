@@ -67,7 +67,5 @@ yarn dev
 
 - `Typescript`
 - `React`
-- `Tailwind css`
-- `DDD - Domain Driven Design`
 - `React Router`
-- `Vite`
+- `Styled Components`
