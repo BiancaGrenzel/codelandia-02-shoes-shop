@@ -14,4 +14,5 @@ export const Container = styled.div`
     line-height: 20px;
     width: 100vw;
     height: auto;
+    width: calc(100vw - 32px);
 `

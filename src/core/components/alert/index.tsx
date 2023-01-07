@@ -1,9 +1,13 @@
 import { Container } from "./style";
 
-const Alert = () => {
+interface AlertProps {
+    text: string;
+}
+
+const Alert = ({text}: AlertProps) => {
     return (
         <Container>
-            Ganhe R$ 10,00 de desconto no frete
+            {text}
         </Container>
     )
 }
