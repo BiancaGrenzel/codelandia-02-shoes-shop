@@ -1,47 +1,71 @@
-# Getting Started with Create React App
+<h1 align="center">Codelandia - Shoes Shop</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br/>
 
-## Available Scripts
+<div align="center"> 
+  <img src="https://cdn.sanity.io/images/599r6htc/localized/aa86e965428b06f49ba2c6188545587948a409ae-2120x1000.png?w=1200&q=70&fit=max&auto=format" alt="chat" width="100%" />
+</div>
 
-In the project directory, you can run:
+<br/>
 
-### `npm start`
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<br/>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Introduction
 
-### `npm test`
+Here comes the introduction of your project :).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br/>
 
-### `npm run build`
+## 📁 Access to the project
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+You can download it, or access by the link below to test it out.
+<br/>
+Your link here
+<br/>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 📼 Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- `Dependencie's installation`: To install the dependencies of the project, use the command below:
 
-### `npm run eject`
+```bash
+npm install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+or, if you do prefer yarn:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+yarn
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 💡 Startup
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- `Project startup`: To start the project, use the command below:
 
-## Learn More
+```bash
+npm run dev
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+or, if you do prefer yarn:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-# codelandia-02-shoes-shop
+```bash
+yarn dev
+```
+
+<br/>
+
+## 🔨 Project requirements & features
+
+- `Requirement 1` `Title of the requirement`: Here you can talk more about why you decided to add this feature on the project.
+
+<br/>
+
+## ✔️ Techniques and technologies
+
+- `Typescript`
+- `React`
+- `React Router`
+- `Styled Components`
