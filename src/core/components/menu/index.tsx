@@ -1,8 +1,10 @@
+import { Container } from "./style";
+
 const Menu = () => {
     return(
-        <div>
-            <h1>Menu</h1>
-        </div>
+        <Container>
+            JordanShoes
+        </Container>
     )
 }
 
