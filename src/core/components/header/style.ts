@@ -1,7 +1,7 @@
 import styled from "@emotion/styled";
 
 export const Container = styled.image`
-display: flex;
+    display: flex;
     background-image: url(${require("../../assets/shoes-header-desktop.svg").default});
     background-repeat: no-repeat;
     background-size: cover;
@@ -11,8 +11,8 @@ display: flex;
 export const Mask = styled.div`
     display: flex;
     flex-direction: column;
-    height: auto;
-    padding: 120px 100px;
+    padding: 100px 80px;
+    /* padding: 4% 4%; */
     gap: 26px;
     text-align: start;
     background-color: rgba(24, 24, 24, 0.6);
